@@ -34,6 +34,4 @@ Welcome to the Apple Stock Analyzer! This Python script helps you analyze the st
 
 3. **Exploration**: Dive into the generated visualizations and analysis to gain insights into Apple's stock performance before and after its stock splits.
 
-convert this into 
 
-ChatGPT can make mistakes. Consider checking important information.
